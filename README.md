@@ -1,4 +1,6 @@
-android_device_kttech_s200_jellybean
+android_device_kttech_s200
 ====================================
 
-device tree
+here is same hardware with s220 :)
+
+just fun, my english isn't good ~.~!
